@@ -1,0 +1,5 @@
+package org.generation.blogPessoal.entity;
+
+public class UserLoginEntity {
+
+}

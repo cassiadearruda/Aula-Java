@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\cassi\Desktop\Turma30Java\java\.metadata\.plugins\org.eclipse.jdt.core
+3833511888.index
+827256296.index
+1415021413.index
+2592615974.index
